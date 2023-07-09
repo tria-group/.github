@@ -15,14 +15,15 @@ Our mission is to deliver unique and captivating content that engages players an
 ### Garry's Mod
 
 In our early days, we dedicated ourselves to developing gamemodes and maps for the iconic sandbox game, Garry's Mod. We explored various gameplay mechanics, created custom maps, and designed immersive experiences for players to enjoy.
+![image](https://github.com/tria-group/.github/assets/69421356/f7b34859-5401-4abb-8381-ecf00fc5f967)
 
-![image](https://github.com/tria-group/tria-group/assets/69421356/7a757cfa-ed96-4858-b180-65a792bec6f4)
 
 ### Garry's Mod 2 (s&box)
 
 Currently, our focus has shifted towards Garry's Mod 2 (s&box), an exciting new platform being developed by Facepunch Studios. We are thrilled to be a part of this next-generation gaming experience and are working hard to bring our innovative ideas to life within this evolving ecosystem.
 
-![image](https://github.com/tria-group/tria-group/assets/69421356/12083883-8311-4f17-8568-9528211e4a9d)
+![image](https://github.com/tria-group/.github/assets/69421356/b00c8a07-fbbe-4079-bc24-c8abc48713ab)
+
 
 
 ## Our Approach
