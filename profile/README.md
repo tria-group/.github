@@ -1,3 +1,8 @@
+![@TrackZone](https://github.com/TrackZoneV2)
+![@Ralex](https://github.com/Ralex91)
+![@Inplex-sys](https://github.com/Inplex-sys)
+![@Anatik](https://github.com/Anatik572)
+
 # Tria Group
 Welcome to the Tria Group organization! We are a young and innovative video game startup focused on creating exciting gamemodes and maps for Garry's Mod and currently developing content for Garry's Mod 2 (s&box).
 
